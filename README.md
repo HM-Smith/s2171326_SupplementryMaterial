@@ -1,2 +1,2 @@
 # s2171326_SupplementryMaterial
-Supplementary files
+Supplementary files for PhD thesis by Hannah M. Smith 
